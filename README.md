@@ -1,5 +1,5 @@
 # woowacourse-archive
-우아한테크코스 8기 활동 기록입니다
+우아한테크코스 8기 활동 기록입니다.
 
 ## 🫘 프리코스, 최종 코딩 테스트
 
@@ -34,9 +34,12 @@
 | 온보딩 - Gemini Canvas로 웹앱 만들기        | [PR-135](https://github.com/woowacourse/gemini-canvas-mission/pull/135)     |
 | 로또 Step 1        | [PR-437](https://github.com/woowacourse/javascript-lotto/pull/437)     |
 | 로또 Step 2        | [PR-474](https://github.com/woowacourse/javascript-lotto/pull/474)     |
+| 로또 Step 2        | [PR-474](https://github.com/woowacourse/javascript-lotto/pull/474)     |
+| TS 와 학습법 튜닝하기        | [PR-25](https://github.com/woowacourse/ts-and-learning/pull/25)     |
 
 ### 원정대 활동
 -  JS 코드 동작 원리 이해 — 실행 컨텍스트·스코프·클로저로 코드 흐름 설명하기
+-  JS 는 언제 기억하고 어디에 저장할까 - JavaScript가 데이터를 언제, 어디에 저장하는지를 CS 관점에서 이해하기
 
 ## 🖋 블로그
 
